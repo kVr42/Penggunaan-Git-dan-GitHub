@@ -1,6 +1,5 @@
 # Praktikum Penggunaan Git dan GitHub
-Repository ini dibuat untuk memenuhi tugas praktikum mata kuliah Pemrograman / Rekayasa Perangkat Lunak.
-
+# Repository ini dibuat untuk memenuhi tugas praktikum mata kuliah Pemrograman / Rekayasa Perangkat Lunak.
 
 ## Identitas Mahasiswa
 Nama: [Romeo Priod Simanullang]  
