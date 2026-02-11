@@ -12,7 +12,6 @@ stok.append(100)
 stok.insert(2, 75)
 stok.sort(reverse=True)
 rata_rata = sum(stok) / len(stok)
-print("Stok setelah diurutkan dari terbesar ke terkecil:", stok)
 print("Stok setelah semua perubahan:", stok)
 print("Rata-rata stok:", rata_rata)
 
